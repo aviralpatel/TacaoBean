@@ -1,6 +1,6 @@
 # TacaoBean
 
-TacaoBean is a project that combines an ESP8266-based device with an OLED display and NeoPixels, allowing users to receive and send messages through a Morse code interface. Additionally, it includes a desktop application that displays notifications based on data from a Firebase Realtime Database.
+TacaoBean is a bedside lamp that combines an ESP8266-based device with an OLED display and NeoPixels, allowing users to receive and send messages through a Morse code interface. Additionally, it includes a desktop application that displays notifications based on data from a Firebase Realtime Database.
 
 <img src="./images/image2.JPEG" width="300"/>
 <br>
