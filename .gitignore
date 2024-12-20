@@ -1,0 +1,5 @@
+.pio
+.vscode
+node_modules
+./Desktop/tacaobean/tacaobean
+./Desktop/tacaobean/databean

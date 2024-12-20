@@ -1,0 +1,13 @@
+Display
+    D2- SDA
+    D1- SCL
+    Vcc
+    GND
+
+NeoPixel
+    D6- Data
+
+Buttons
+    D4- Select Button
+    D5- Type Button
+    D7- Touch Button
