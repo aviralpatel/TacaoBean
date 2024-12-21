@@ -69,7 +69,7 @@ TacaoBean is a bedside lamp that combines an ESP8266-based device with an OLED d
 
      - Connect to this Wi-Fi network.
      - Open a web browser and navigate to `192.168.4.1`.
-     - Enter your Wi-Fi SSID and Password.
+     - Enter your Wi-Fi SSID and Password. (Only 2.4GHz networks are supported)
      - The device will reboot and connect to your Wi-Fi network.
 
 5. **Upload Firmware**:
