@@ -57,7 +57,7 @@ TacaoBean is a bedside lamp that combines an ESP8266-based device with an OLED d
 
 2. **Open the Project with PlatformIO**:
 
-     Open the project folder `chaklilamp` in your preferred IDE with PlatformIO support, such as Visual Studio Code.
+     Open the project folder `TacaoBean` in your preferred IDE with PlatformIO support, such as Visual Studio Code.
 
 3. **Install Dependencies**:
 
