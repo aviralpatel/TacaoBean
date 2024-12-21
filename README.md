@@ -123,7 +123,7 @@ Ensure that the Firebase Realtime Database is set up and accessible. The project
 
 - **LED Control**:
 
-    The NeoPixel LEDs provide visual feedback and can be controlled through the touch button.
+    The Brightness of NeoPixel LEDs can be controlled through the push buttons.
 
 ## License
 
